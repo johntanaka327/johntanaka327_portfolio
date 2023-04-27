@@ -23,7 +23,7 @@ class Sidebar extends Component {
           </Link>
         </h1>
 
-        <img src={logo} />
+        {/* <img src={logo} /> */}
         <p style={{ color: 'black', fontWeight: 'bold' }} className='gmail'>
           <a
             href='https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvBffjPmxWxvfHWRHWnhTbpQgPxBxvkcnPpFpFqbhrXMCHXSJTsCXCVLsQzgRcVLpnPL'
