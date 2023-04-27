@@ -54,13 +54,6 @@ const cardItem = [
     desc: 'My SuperHero app provides all SuperHeroes and Villians data like powerstats, full name from all the universes.',
     image: superhero
   },
-  {
-    link: 'https://play.google.com/store/apps/details?id=com.thesachin.memestemplate',
-    title: 'Indian Memes Templates',
-    techStack: 'Tech Stack- Flutter',
-    desc: ' Indian meme templates - Memeशाला contains a wide range of Indian meme templates including Bollywood, political, Indian shows. You can edit and create memes too.',
-    image: memes
-  }
 ];
 
 export default function Projects() {
