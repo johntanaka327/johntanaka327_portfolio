@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './Sidebar.css';
 import { HashLink as Link } from 'react-router-hash-link';
 import logo from '../images/sam.jpg';
+import profile from '../../config/profile';
 
 class Sidebar extends Component {
   render() {
@@ -18,7 +19,7 @@ class Sidebar extends Component {
         </div>
         <h1>
           <Link smooth to='/#start' className='h1_links'>
-            Sachin Mittal
+            {profile.full_name}
           </Link>
         </h1>
 
