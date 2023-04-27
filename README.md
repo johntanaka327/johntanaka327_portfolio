@@ -1,10 +1,12 @@
 # React-Portfolio made with love and with beautiful UI.
 
-Live Preview at : https://myself.now.sh/
+Live Demo at : https://myself.now.sh/
 
 ### Hi there 👋 I am a full stack web and app developer. I love to build new things that excites me a lot.
 
-# buy-me-a-coffee
-Liked some of my work? Buy me a coffee (or more likely a beer) as it motivates me to build new things 😊
+# How to duplicate this project for friends.
 
+Open config/profile.js, and search full_name variable.
 
+Search and Replace this name for entire project.
+It 's done !
