@@ -62,6 +62,14 @@ class Sidebar extends Component {
           <ul className='sidebar-nav'>
             <li className='sidebar-nav-icons'>
               <a
+                href={`mailto:${profile.email}`}
+                rel='opener noreferrer'
+                target='_blank'
+                className='fa fas fa-envelope fa-lg'
+              ></a>
+            </li>
+            <li className='sidebar-nav-icons'>
+              <a
                 href='https://github.com/mittalsam98'
                 rel='opener noreferrer'
                 target='_blank'
@@ -76,38 +84,30 @@ class Sidebar extends Component {
                 className='fa fas fa-linkedin fa-lg'
               ></a>
             </li>
-            <li className='sidebar-nav-icons'>
+            {/* <li className='sidebar-nav-icons'>
               <a
                 href='https://twitter.com/Sachin_Mittal98'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-twitter fa-lg'
               ></a>
-            </li>
-            <li className='sidebar-nav-icons'>
+            </li> */}
+            {/* <li className='sidebar-nav-icons'>
               <a
                 href='https://www.instagram.com/decent_sachin.mittal/'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-instagram fa-lg'
               ></a>
-            </li>
-            <li className='sidebar-nav-icons'>
-              <a
-                href={`mailto:${profile.email}`}
-                rel='opener noreferrer'
-                target='_blank'
-                className='fa fas fa-envelope fa-lg'
-              ></a>
-            </li>
-            <li className='sidebar-nav-icons'>
+            </li> */}
+            {/* <li className='sidebar-nav-icons'>
               <a
                 href='https://www.facebook.com/profile.php?id=100011989067867'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-facebook fa-lg'
               ></a>
-            </li>
+            </li> */}
           </ul>
         </div>
         <div
