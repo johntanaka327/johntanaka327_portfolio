@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import classes from './About.module.css';
 import ScrollAnimation from 'react-animate-on-scroll';
 import 'animate.css/animate.min.css';
+import profile from '../../config/profile';
 
 class About extends Component {
   render() {
@@ -18,7 +19,7 @@ class About extends Component {
           <h2 className={classes.heading}>Who Am I?</h2>
           <div className={classes.About}>
             <p>
-              My name is <b>SACHIN MITTAL</b> and I am currently working as{' '}
+              My name is <b>{profile.full_name}</b> and I am currently working as{' '}
               <b>Software Developer Engineer</b> at
               <b>
                 {' '}

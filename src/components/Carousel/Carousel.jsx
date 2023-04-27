@@ -7,6 +7,7 @@ import { GoProject } from 'react-icons/go';
 import { FaArrowCircleDown } from 'react-icons/fa';
 import Hello from '../images/Hello.jpg';
 import Pencil from '../images/Pencil.jpg';
+import profile from '../../config/profile';
 
 class CarouselImages extends Component {
   render() {
@@ -28,7 +29,7 @@ class CarouselImages extends Component {
           <div className={classes.image_container}>
             <img className={classes.image} src={Hello} alt='myImage' />
             <div className={classes.h1}>
-              <h1>I'm Sachin</h1>
+              <h1>I'm {profile.full_name}</h1>
               <a
                 href='https://drive.google.com/file/d/1XwQYRl06QtuNPT8v4fHkbajk1ll9LTbi/view?usp=sharing'
                 rel='opener noreferrer'
