@@ -31,7 +31,7 @@ class Sidebar extends Component {
             target='_blank'
             className='fa fa-envelope'
           ></a>{' '}
-          mittalsam98@gmail.com
+          {profile.email}
         </p>
 
         <ul className='sidebar-nav'>
@@ -94,7 +94,7 @@ class Sidebar extends Component {
             </li>
             <li className='sidebar-nav-icons'>
               <a
-                href='mailto:mittalsam98@gmail.com'
+                href={`mailto:${profile.email}`}
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-envelope fa-lg'
