@@ -1,32 +1,31 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6b24d32d.chunk.css",
-    "main.js": "/portfolio/static/js/main.5555776d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5555776d.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.389d5366.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.389d5366.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.bd3ef9be.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.bd3ef9be.js.map",
     "static/css/2.14351861.chunk.css": "/portfolio/static/css/2.14351861.chunk.css",
-    "static/js/2.9c6bdbe7.chunk.js": "/portfolio/static/js/2.9c6bdbe7.chunk.js",
-    "static/js/2.9c6bdbe7.chunk.js.map": "/portfolio/static/js/2.9c6bdbe7.chunk.js.map",
+    "static/js/2.13eb83a5.chunk.js": "/portfolio/static/js/2.13eb83a5.chunk.js",
+    "static/js/2.13eb83a5.chunk.js.map": "/portfolio/static/js/2.13eb83a5.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ac22bbe7e033ee9f3db1c868fd94611c.js": "/portfolio/precache-manifest.ac22bbe7e033ee9f3db1c868fd94611c.js",
+    "precache-manifest.c62bccd35365d6508d9e022f7d4e00c6.js": "/portfolio/precache-manifest.c62bccd35365d6508d9e022f7d4e00c6.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.14351861.chunk.css.map": "/portfolio/static/css/2.14351861.chunk.css.map",
     "static/css/main.6b24d32d.chunk.css.map": "/portfolio/static/css/main.6b24d32d.chunk.css.map",
-    "static/js/2.9c6bdbe7.chunk.js.LICENSE": "/portfolio/static/js/2.9c6bdbe7.chunk.js.LICENSE",
+    "static/js/2.13eb83a5.chunk.js.LICENSE": "/portfolio/static/js/2.13eb83a5.chunk.js.LICENSE",
     "static/media/Hello.jpg": "/portfolio/static/media/Hello.ce9b13e5.jpg",
     "static/media/Pencil.jpg": "/portfolio/static/media/Pencil.38828042.jpg",
-    "static/media/bookheap.png": "/portfolio/static/media/bookheap.ef1ed010.png",
-    "static/media/chess.png": "/portfolio/static/media/chess.f3b3efd4.png",
-    "static/media/sam.jpg": "/portfolio/static/media/sam.dd77e9e7.jpg",
-    "static/media/shopping-app.png": "/portfolio/static/media/shopping-app.fc269d80.png",
-    "static/media/travel-log.png": "/portfolio/static/media/travel-log.794aaa6e.png"
+    "static/media/agradi_landing.png": "/portfolio/static/media/agradi_landing.e3938fc3.png",
+    "static/media/cyop_landing.png": "/portfolio/static/media/cyop_landing.28e1eee8.png",
+    "static/media/learnwithhomer_landing.png": "/portfolio/static/media/learnwithhomer_landing.58bcf671.png",
+    "static/media/sam.jpg": "/portfolio/static/media/sam.dd77e9e7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bd3ef9be.js",
     "static/css/2.14351861.chunk.css",
-    "static/js/2.9c6bdbe7.chunk.js",
+    "static/js/2.13eb83a5.chunk.js",
     "static/css/main.6b24d32d.chunk.css",
-    "static/js/main.5555776d.chunk.js"
+    "static/js/main.389d5366.chunk.js"
   ]
 }
