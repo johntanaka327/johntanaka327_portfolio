@@ -25,10 +25,11 @@ class Interest extends Component {
               initiallyVisible={true}
             >
               <div className={classes.web}>
-                <h3>APP Develpoment</h3>
+                <h3>Web Develpoment</h3>
                 <p>
-                  I have knowledge of flutter development and have experience in building android
-                  and IOS applications. I also have live projects published on Google Play Store.
+                  I am a full stack web developer with frontend and backend skills.
+                  My frontend skills are mainly React and Angular. I love to use TypeScript for high quality and teamwork.
+                  I also have PHP, NodeJS and Django backend skills with Cloud Service and Database administration skills.
                 </p>
               </div>
             </ScrollAnimation>
@@ -40,11 +41,10 @@ class Interest extends Component {
               initiallyVisible={true}
             >
               <div className={classes.app}>
-                <h3>Web Develpoment</h3>
+                <h3>APP Develpoment</h3>
                 <p>
-                  I am a full stack web developer(MERN) and build websites using HTML, CSS,
-                  Javascript, ReactJs.
-                  <br /> I have also good grasp on Node and NoSQL(MongoDb).
+                  I have knowledge of React Native and Flutter development and have experience in building android
+                  and IOS applications. I also have live projects published on Google Play Store.
                 </p>
               </div>
             </ScrollAnimation>
@@ -56,13 +56,11 @@ class Interest extends Component {
               initiallyVisible={true}
             >
               <div className={classes.other}>
-                <h3>Other's Interest</h3>
+                <h3>Other's Skills</h3>
                 <p>
-                  I also have decent hand in developing website with WordPress or others CMS as
-                  well.
+                  I also have experience in Blockchain and ChatGpt.
                   <br />
-                  Redux, GraphQL, Next.js, Problem solving, Github are my fields of interest.
-                  Currently, I am investing my free time in Web3.js
+                  I have experience of working as a team leader and organized CI/CD in many projects.
                 </p>
               </div>
             </ScrollAnimation>

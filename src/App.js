@@ -30,7 +30,7 @@ class App extends Component {
             </nav>
           </div>
           <div className='main'>
-            <CarouselImages />
+            {/* <CarouselImages /> */}
             <Projects />
             <About />
             <Interest />

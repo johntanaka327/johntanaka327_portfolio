@@ -20,15 +20,7 @@ class About extends Component {
           <div className={classes.About}>
             <p>
               My name is <b>{profile.full_name}</b> and I am currently working as{' '}
-              <b>Software Developer Engineer</b> at
-              <b>
-                {' '}
-                <a className={classes.link} target='_blank' href='https://www.springworks.in/'>
-                  Springworks
-                </a>
-              </b>
-              . I completed my degree in Bachelor of Technology in Computer Science and Engineering
-              from Sant Longowal Institute of Engineering and Technology. I am much interested in
+              <b>Full-stack Software Developer</b>. I completed my degree in Bachelor of Computer Science from University of Winnipeg. I am much interested in
               developing new things which excite me a lot. :)
             </p>
             <p className={classes.br}>
