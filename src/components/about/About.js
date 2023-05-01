@@ -19,9 +19,7 @@ class About extends Component {
           <h2 className={classes.heading}>Who Am I?</h2>
           <div className={classes.About}>
             <p>
-              My name is <b>{profile.full_name}</b> and I am currently working as{' '}
-              <b>Full-stack Software Developer</b>. I completed my degree in Bachelor of Computer Science from University of Winnipeg. I am much interested in
-              developing new things which excite me a lot. :)
+              My name is <b>{profile.full_name}</b> and I am a creative and passionate <b>Full-stack Software Developer</b> with 10 yrs of experience. 
             </p>
             <p className={classes.br}>
               I love exploring new technologies and being a practitioner, I like to stay on top of

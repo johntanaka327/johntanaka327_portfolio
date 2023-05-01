@@ -168,3 +168,11 @@ a:hover {
     padding: 0 42px 0 0;
   }
 }
+
+ul {
+  list-style: circle;
+}
+ul li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

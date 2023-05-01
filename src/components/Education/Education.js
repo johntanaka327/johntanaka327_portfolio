@@ -31,8 +31,8 @@ class Education extends Component {
                       initiallyVisible={true}
                     >
                       <article className={classes.timeline_entry}>
-                        <div className={`${classes.timeline_icon} ${classes.timeline_icon_2}`}>
-                          <FaSchool />
+                        <div className={`${classes.timeline_icon}`}>
+                          <MdSchool />
                         </div>
                         <div className={classes.label}>
                           <h2>
@@ -45,6 +45,9 @@ class Education extends Component {
                             I have completed my higher education from University of Winnipeg with major subjects as
                             Computer Science & Maths with 85% merit in CBSE board.{' '}
                           </p>
+                        </div>
+                        <div className={classes.timeline_entry_inner}>
+                          <div className={classes.timeline_icon_3 || classes.color_none}></div>
                         </div>
                       </article>
                     </ScrollAnimation>

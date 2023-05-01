@@ -4,6 +4,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import Sidebar from './components/sidebar/Sidebar';
 import About from './components/about/About';
 import Education from './components/Education/Education';
+import Experience from './components/Experience/Experience';
 import Interest from './components/skills/Interest';
 import Projects from './components/Projects/Projects.js';
 import CarouselImages from './components/Carousel/Carousel';
@@ -34,6 +35,7 @@ class App extends Component {
             <Projects />
             <About />
             <Interest />
+            <Experience />
             <Education />
           </div>
         </div>
