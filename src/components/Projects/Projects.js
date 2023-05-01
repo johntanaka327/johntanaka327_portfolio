@@ -12,14 +12,14 @@ const cardItem = [
     link: 'https://cyop.io/',
     title: 'CyOp',
     techStack: 'Blockchain, NFT, React, Redux, Unity',
-    desc: 'It is a NFT minting website. I developed React fronend and Unity 3D models.',
+    desc: 'It is a German NFT minting website. I developed React fronend and Unity 3D models.',
     image: cyop_landing
   },
   {
     link: 'https://www.agradi.com/',
     title: 'Agradi BV',
     techStack: 'ReactJs, Next.js, Django, Tensorflow',
-    desc: 'Online store for horseware goods',
+    desc: 'Dutch online store for horseware goods',
     image: agradi_landing
   },
   {
