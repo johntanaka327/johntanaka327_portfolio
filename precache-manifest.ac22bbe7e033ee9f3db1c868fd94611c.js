@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd3dfe596a8986af85c167f6dcf95e8d",
+    "revision": "ea8b2ee3349f101fa909cac776f28ae2",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "16d3fae9cf8a8c893f16",
+    "revision": "404f47289cd6f8a648f1",
     "url": "/portfolio/static/css/2.14351861.chunk.css"
   },
   {
-    "revision": "73f1d24fe74fbc3b1259",
-    "url": "/portfolio/static/css/main.a640f64d.chunk.css"
+    "revision": "33fc43c350abe8b33058",
+    "url": "/portfolio/static/css/main.6b24d32d.chunk.css"
   },
   {
-    "revision": "16d3fae9cf8a8c893f16",
-    "url": "/portfolio/static/js/2.41d15336.chunk.js"
+    "revision": "404f47289cd6f8a648f1",
+    "url": "/portfolio/static/js/2.9c6bdbe7.chunk.js"
   },
   {
     "revision": "be6829ae46fa1d5f64ff1f06147ffe7e",
-    "url": "/portfolio/static/js/2.41d15336.chunk.js.LICENSE"
+    "url": "/portfolio/static/js/2.9c6bdbe7.chunk.js.LICENSE"
   },
   {
-    "revision": "73f1d24fe74fbc3b1259",
-    "url": "/portfolio/static/js/main.86cb57a8.chunk.js"
+    "revision": "33fc43c350abe8b33058",
+    "url": "/portfolio/static/js/main.5555776d.chunk.js"
   },
   {
     "revision": "7ed53fe796af37015373",
@@ -44,24 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/chess.f3b3efd4.png"
   },
   {
-    "revision": "f93a88f82aed103026e8c4fc7cfb7adb",
-    "url": "/portfolio/static/media/definition.f93a88f8.png"
-  },
-  {
-    "revision": "7a0505a9d3c6947574623bac509b96f8",
-    "url": "/portfolio/static/media/memes.7a0505a9.png"
-  },
-  {
     "revision": "dd77e9e7914aa7a71a1718dc53b2be8c",
     "url": "/portfolio/static/media/sam.dd77e9e7.jpg"
   },
   {
     "revision": "fc269d8013022a5e02fdd23f0c790b1d",
     "url": "/portfolio/static/media/shopping-app.fc269d80.png"
-  },
-  {
-    "revision": "38dcf970971c80745f27e3f4c12ecb4b",
-    "url": "/portfolio/static/media/superhero.38dcf970.png"
   },
   {
     "revision": "794aaa6ee350764f56fd61ab01c08b2e",
